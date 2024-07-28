@@ -9,27 +9,6 @@ This is a music recommender system built using `nltk` and `sklearn`. The system 
 - **Cosine Similarity**: Employs `sklearn`'s `cosine_similarity` to measure the similarity between song vectors.
 - **Recommendation System**: Recommends songs based on the similarity scores of the input song.
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/music-recommender.git
-    cd music-recommender
-    ```
-
-2. Create and activate a virtual environment (optional but recommended):
-
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
